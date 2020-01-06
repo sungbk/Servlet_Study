@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	redirect된 페이지 입니다
+	redirect된 페이지 입니다 
 </body>
 </html>

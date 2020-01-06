@@ -2,6 +2,6 @@
     pageEncoding="EUC-KR"%>
 
 <%
-	response.sendRedirect("redirect02.jsp");
+	response.sendRedirect("redirect02.jsp"); 
 
 %>
